@@ -10,8 +10,12 @@ http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <properties>
     <sonar.organization>mpil2023</sonar.organization>
     <sonar.host.url>https://sonarcloud.io/</sonar.host.url>
-  </properties>                                                                                                            
+  </properties>
+  <profiles>
+    <profile>
   <modules>
       <module>spring-petclinic</module>
   </modules>
+    </profile>
+  </profiles>
 </project>
