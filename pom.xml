@@ -5,7 +5,6 @@
     <groupId>com.example</groupId>
     <artifactId>appRoot</artifactId>
     <version>1.0.0</version>
-    <artifactId>spring-petclinic</artifactId>
 
     <modules>
         <module>spring-petclinic</module>
